@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 40d886cc9cca61a488414790b3980866
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3538678327680080747
+    second: pngfind.com-smash-4-logo-png-6867572_0
+  - first:
+      213: -2624152350858709943
+    second: pngfind.com-smash-4-logo-png-6867572_1
+  - first:
+      213: 7494561190842709554
+    second: pngfind.com-smash-4-logo-png-6867572_2
+  - first:
+      213: 184574939549234922
+    second: pngfind.com-smash-4-logo-png-6867572_3
+  - first:
+      213: -9180230218085039304
+    second: pngfind.com-smash-4-logo-png-6867572_4
+  - first:
+      213: -5406444922605724451
+    second: pngfind.com-smash-4-logo-png-6867572_5
+  - first:
+      213: -3331013608614180325
+    second: pngfind.com-smash-4-logo-png-6867572_6
+  - first:
+      213: -8401117159545098235
+    second: pngfind.com-smash-4-logo-png-6867572_7
+  - first:
+      213: 4584343178799452315
+    second: pngfind.com-smash-4-logo-png-6867572_8
+  - first:
+      213: 8113700780469304508
+    second: pngfind.com-smash-4-logo-png-6867572_9
+  - first:
+      213: -8141758026552975891
+    second: pngfind.com-smash-4-logo-png-6867572_10
+  - first:
+      213: 2593817813785999363
+    second: pngfind.com-smash-4-logo-png-6867572_11
+  - first:
+      213: -7449607333206390946
+    second: pngfind.com-smash-4-logo-png-6867572_12
+  - first:
+      213: 3581581818658350561
+    second: pngfind.com-smash-4-logo-png-6867572_13
+  - first:
+      213: -6037386934897624952
+    second: pngfind.com-smash-4-logo-png-6867572_14
+  - first:
+      213: 7147839196223879930
+    second: pngfind.com-smash-4-logo-png-6867572_15
+  - first:
+      213: -5936906896587545407
+    second: pngfind.com-smash-4-logo-png-6867572_16
+  - first:
+      213: -5937318960283739379
+    second: pngfind.com-smash-4-logo-png-6867572_17
+  - first:
+      213: 2020391867012939277
+    second: pngfind.com-smash-4-logo-png-6867572_18
+  - first:
+      213: 6065550669202033362
+    second: pngfind.com-smash-4-logo-png-6867572_19
+  - first:
+      213: 3146037123481486287
+    second: pngfind.com-smash-4-logo-png-6867572_20
+  - first:
+      213: -4949120570417534608
+    second: pngfind.com-smash-4-logo-png-6867572_21
+  - first:
+      213: 2670115494461210944
+    second: pngfind.com-smash-4-logo-png-6867572_22
+  - first:
+      213: 6935959667987138192
+    second: pngfind.com-smash-4-logo-png-6867572_23
+  - first:
+      213: 4871578377747026339
+    second: pngfind.com-smash-4-logo-png-6867572_24
+  - first:
+      213: -2747266349085157311
+    second: pngfind.com-smash-4-logo-png-6867572_25
+  - first:
+      213: 1350889989706944046
+    second: pngfind.com-smash-4-logo-png-6867572_26
+  - first:
+      213: -7236681217928632047
+    second: pngfind.com-smash-4-logo-png-6867572_27
+  - first:
+      213: 7127339621640229555
+    second: pngfind.com-smash-4-logo-png-6867572_28
+  - first:
+      213: 3491957858277666052
+    second: pngfind.com-smash-4-logo-png-6867572_29
+  - first:
+      213: 742019026569988624
+    second: pngfind.com-smash-4-logo-png-6867572_30
+  - first:
+      213: -4014222228955900188
+    second: pngfind.com-smash-4-logo-png-6867572_31
+  - first:
+      213: -7183517795975544241
+    second: pngfind.com-smash-4-logo-png-6867572_32
+  - first:
+      213: 6571205719397794917
+    second: pngfind.com-smash-4-logo-png-6867572_33
+  - first:
+      213: 1163222937000494010
+    second: pngfind.com-smash-4-logo-png-6867572_34
+  - first:
+      213: -1393659617635924157
+    second: pngfind.com-smash-4-logo-png-6867572_35
+  - first:
+      213: -5947960898879175768
+    second: pngfind.com-smash-4-logo-png-6867572_36
+  - first:
+      213: -3877841457023188380
+    second: pngfind.com-smash-4-logo-png-6867572_37
+  - first:
+      213: -4945107651930334311
+    second: pngfind.com-smash-4-logo-png-6867572_38
+  - first:
+      213: -1474452291332703464
+    second: pngfind.com-smash-4-logo-png-6867572_39
+  - first:
+      213: -1510054935776289663
+    second: pngfind.com-smash-4-logo-png-6867572_40
+  - first:
+      213: -8872813482283661122
+    second: pngfind.com-smash-4-logo-png-6867572_41
+  - first:
+      213: -4460644089063161488
+    second: pngfind.com-smash-4-logo-png-6867572_42
+  - first:
+      213: 2451921448489522235
+    second: pngfind.com-smash-4-logo-png-6867572_43
+  - first:
+      213: -7418460478409980781
+    second: pngfind.com-smash-4-logo-png-6867572_44
+  - first:
+      213: 4398356169053125045
+    second: pngfind.com-smash-4-logo-png-6867572_45
+  - first:
+      213: -4077861726580942372
+    second: pngfind.com-smash-4-logo-png-6867572_46
+  - first:
+      213: -6405716584077745316
+    second: pngfind.com-smash-4-logo-png-6867572_47
+  - first:
+      213: 287293467343673420
+    second: pngfind.com-smash-4-logo-png-6867572_48
+  - first:
+      213: -5282173434784056104
+    second: pngfind.com-smash-4-logo-png-6867572_49
+  - first:
+      213: 7994669834868642976
+    second: pngfind.com-smash-4-logo-png-6867572_50
+  - first:
+      213: 9139289716998846588
+    second: pngfind.com-smash-4-logo-png-6867572_51
+  - first:
+      213: -7796503080793821464
+    second: pngfind.com-smash-4-logo-png-6867572_52
+  - first:
+      213: 2309285704169551092
+    second: pngfind.com-smash-4-logo-png-6867572_53
+  - first:
+      213: 2757736484769924347
+    second: pngfind.com-smash-4-logo-png-6867572_54
+  - first:
+      213: -8394734683249867693
+    second: pngfind.com-smash-4-logo-png-6867572_55
+  - first:
+      213: -4889564097854131633
+    second: pngfind.com-smash-4-logo-png-6867572_56
+  - first:
+      213: 6726865350075746729
+    second: pngfind.com-smash-4-logo-png-6867572_57
+  - first:
+      213: -6018070821133136467
+    second: pngfind.com-smash-4-logo-png-6867572_58
+  - first:
+      213: 1065429230536421834
+    second: pngfind.com-smash-4-logo-png-6867572_59
+  - first:
+      213: -1215801017024014717
+    second: pngfind.com-smash-4-logo-png-6867572_60
+  - first:
+      213: 7107919186698106622
+    second: pngfind.com-smash-4-logo-png-6867572_61
+  - first:
+      213: -2393834599120083454
+    second: pngfind.com-smash-4-logo-png-6867572_62
+  - first:
+      213: 2517912288581966651
+    second: pngfind.com-smash-4-logo-png-6867572_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1412
+        width: 144
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59461484fc614eec0800000000000000
+      internalID: -3538678327680080747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1414
+        width: 120
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9447f8a1753259bd0800000000000000
+      internalID: -2624152350858709943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1407
+        width: 155
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236bb97f1b7020860800000000000000
+      internalID: 7494561190842709554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1414
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6754afdedbf8200800000000000000
+      internalID: 184574939549234922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1408
+        width: 134
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8330cbe6145499080800000000000000
+      internalID: -9180230218085039304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_5
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1410
+        width: 144
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc1f5accf278f4b0800000000000000
+      internalID: -5406444922605724451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_6
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1409
+        width: 139
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4f8c75ccd5c1d0800000000000000
+      internalID: -3331013608614180325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_7
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1411
+        width: 136
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50030e4547c396b80800000000000000
+      internalID: -8401117159545098235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1208
+        width: 139
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9093dc05dbde9f30800000000000000
+      internalID: 4584343178799452315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1211
+        width: 141
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcbea12fd7a99070800000000000000
+      internalID: 8113700780469304508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1207
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deddf14363aa20f80800000000000000
+      internalID: -8141758026552975891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1212
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3087bca1f871ff320800000000000000
+      internalID: 2593817813785999363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_12
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1215
+        width: 153
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e578614a99dad9890800000000000000
+      internalID: -7449607333206390946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_13
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1223
+        width: 172
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e02320b554b130800000000000000
+      internalID: 3581581818658350561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_14
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1212
+        width: 140
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b7d5f194e63ca0800000000000000
+      internalID: -6037386934897624952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_15
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1231
+        width: 168
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afab98ac0e9323360800000000000000
+      internalID: 7147839196223879930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1019
+        width: 162
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c42554f1aedb9da0800000000000000
+      internalID: -5936906896587545407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1008
+        width: 147
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b9816ecd76a9da0800000000000000
+      internalID: -5937318960283739379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1016
+        width: 165
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ef464d2bfd90c10800000000000000
+      internalID: 2020391867012939277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1023
+        width: 167
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da8bec623a2d2450800000000000000
+      internalID: 6065550669202033362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_20
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1023
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc34e4b6818f8ab20800000000000000
+      internalID: 3146037123481486287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_21
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1019
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0792fa11011315bb0800000000000000
+      internalID: -4949120570417534608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_22
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1009
+        width: 137
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04180a435e72e0520800000000000000
+      internalID: 2670115494461210944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_23
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1016
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0964fcad19a714060800000000000000
+      internalID: 6935959667987138192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 811
+        width: 161
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1d51d49b25b9340800000000000000
+      internalID: 4871578377747026339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 814
+        width: 175
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1481567afcfbfd9d0800000000000000
+      internalID: -2747266349085157311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_26
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 823
+        width: 172
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e0d1fc9435fb210800000000000000
+      internalID: 1350889989706944046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_27
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 823
+        width: 141
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1196f9c16c4229b90800000000000000
+      internalID: -7236681217928632047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_28
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 835
+        width: 168
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2de65af9569e260800000000000000
+      internalID: 7127339621640229555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_29
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 812
+        width: 157
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d2641cb2de57030800000000000000
+      internalID: 3491957858277666052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_30
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 820
+        width: 165
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a094f8f5e2c4a00800000000000000
+      internalID: 742019026569988624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_31
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 819
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e65b99a62e9a48c0800000000000000
+      internalID: -4014222228955900188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 615
+        width: 158
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f424e2ddf940f4c90800000000000000
+      internalID: -7183517795975544241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 621
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56488ba39cc913b50800000000000000
+      internalID: 6571205719397794917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 612
+        width: 127
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab340822919942010800000000000000
+      internalID: 1163222937000494010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_35
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 610
+        width: 146
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347010136f9b8ace0800000000000000
+      internalID: -1393659617635924157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_36
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 621
+        width: 158
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3c46c7319947da0800000000000000
+      internalID: -5947960898879175768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_37
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 615
+        width: 137
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46289d29db32f2ac0800000000000000
+      internalID: -3877841457023188380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_38
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 613
+        width: 164
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b50a67ac27f5bb0800000000000000
+      internalID: -4945107651930334311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_39
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 611
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b7ad8f371b98be0800000000000000
+      internalID: -1474452291332703464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 409
+        width: 154
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9ab959053b0be0800000000000000
+      internalID: -1510054935776289663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 408
+        width: 149
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb88f26e52f6dd480800000000000000
+      internalID: -8872813482283661122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 413
+        width: 168
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071c1f1a5db9812c0800000000000000
+      internalID: -4460644089063161488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_43
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 425
+        width: 164
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34116a0199f60220800000000000000
+      internalID: 2451921448489522235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_44
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 409
+        width: 165
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3944914ef755c0990800000000000000
+      internalID: -7418460478409980781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_45
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 405
+        width: 169
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b93f0cd1a91a0d30800000000000000
+      internalID: 4398356169053125045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_46
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 412
+        width: 167
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd95bf77d568867c0800000000000000
+      internalID: -4077861726580942372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_47
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 413
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a73aa4b25a17a0800000000000000
+      internalID: -6405716584077745316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 202
+        width: 164
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c485f4be2ebacf300800000000000000
+      internalID: 287293467343673420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 226
+        width: 169
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcf0b94f33f1b6b0800000000000000
+      internalID: -5282173434784056104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_50
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 214
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a450e37bd5c2fe60800000000000000
+      internalID: 7994669834868642976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_51
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 238
+        width: 170
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78b819539745de70800000000000000
+      internalID: 9139289716998846588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_52
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 222
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeab0371c14dc390800000000000000
+      internalID: -7796503080793821464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_53
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 226
+        width: 146
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4f9e1ec1b3c0020800000000000000
+      internalID: 2309285704169551092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_54
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 214
+        width: 146
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf488d6c8b2754620800000000000000
+      internalID: 2757736484769924347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_55
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 200
+        width: 132
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3548d356849ef7b80800000000000000
+      internalID: -8394734683249867693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b6e8eb57c42cb0800000000000000
+      internalID: -4889564097854131633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_57
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 28
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9062b3560aa5d50800000000000000
+      internalID: 6726865350075746729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 8
+        width: 157
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad473929748b7ca0800000000000000
+      internalID: -6018070821133136467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_59
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 9
+        width: 169
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1f0738d3a29ce00800000000000000
+      internalID: 1065429230536421834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_60
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 181
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38699b6aa6b902fe0800000000000000
+      internalID: -1215801017024014717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_61
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 7
+        width: 160
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6f25747d664a260800000000000000
+      internalID: 7107919186698106622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_62
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7
+        width: 167
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206686c7d1467ced0800000000000000
+      internalID: -2393834599120083454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smash-4-logo-png-6867572_63
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 13
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bd480d2eb61f220800000000000000
+      internalID: 2517912288581966651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

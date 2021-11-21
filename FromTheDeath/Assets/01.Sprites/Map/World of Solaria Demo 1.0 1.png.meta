@@ -1,0 +1,1590 @@
+fileFormatVersion: 2
+guid: 63e42a56f2d660a46b460e91dedff64f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2660737199976663628
+    second: World of Solaria Demo 1.0_0
+  - first:
+      213: -3356131988219279064
+    second: World of Solaria Demo 1.0_1
+  - first:
+      213: -6477156476620652508
+    second: World of Solaria Demo 1.0_2
+  - first:
+      213: -7041612999347458708
+    second: World of Solaria Demo 1.0_3
+  - first:
+      213: -7462079943544688386
+    second: World of Solaria Demo 1.0_4
+  - first:
+      213: 4657501781646975674
+    second: World of Solaria Demo 1.0_5
+  - first:
+      213: -4978392157813340123
+    second: World of Solaria Demo 1.0_6
+  - first:
+      213: -2380760667662684182
+    second: World of Solaria Demo 1.0_7
+  - first:
+      213: -1180098858101623687
+    second: World of Solaria Demo 1.0_8
+  - first:
+      213: 6193602063185916658
+    second: World of Solaria Demo 1.0_9
+  - first:
+      213: 6511684229511065226
+    second: World of Solaria Demo 1.0_10
+  - first:
+      213: 5841073651857056822
+    second: World of Solaria Demo 1.0_11
+  - first:
+      213: 1609051651971758900
+    second: World of Solaria Demo 1.0_12
+  - first:
+      213: -3393953971014740872
+    second: World of Solaria Demo 1.0_13
+  - first:
+      213: 4667362434406833231
+    second: World of Solaria Demo 1.0_14
+  - first:
+      213: 7428451349634867769
+    second: World of Solaria Demo 1.0_15
+  - first:
+      213: 7396855767155678340
+    second: World of Solaria Demo 1.0_16
+  - first:
+      213: 807725543200122758
+    second: World of Solaria Demo 1.0_17
+  - first:
+      213: 3067701244466568200
+    second: World of Solaria Demo 1.0_18
+  - first:
+      213: -6877025126403648599
+    second: World of Solaria Demo 1.0_19
+  - first:
+      213: -8923863740228143546
+    second: World of Solaria Demo 1.0_20
+  - first:
+      213: 1490231505272701589
+    second: World of Solaria Demo 1.0_21
+  - first:
+      213: 194752982920355295
+    second: World of Solaria Demo 1.0_22
+  - first:
+      213: 3851734211201256813
+    second: World of Solaria Demo 1.0_23
+  - first:
+      213: -2318158523146618568
+    second: World of Solaria Demo 1.0_24
+  - first:
+      213: -4586439319823888250
+    second: World of Solaria Demo 1.0_25
+  - first:
+      213: -7392030737889077336
+    second: World of Solaria Demo 1.0_26
+  - first:
+      213: -6993840313006366166
+    second: World of Solaria Demo 1.0_27
+  - first:
+      213: 4571872674997735824
+    second: World of Solaria Demo 1.0_28
+  - first:
+      213: -7424102955422221980
+    second: World of Solaria Demo 1.0_29
+  - first:
+      213: -7223030995444447232
+    second: World of Solaria Demo 1.0_30
+  - first:
+      213: 7631533248842385581
+    second: World of Solaria Demo 1.0_31
+  - first:
+      213: 9088087465305391552
+    second: World of Solaria Demo 1.0_32
+  - first:
+      213: 7566197351847608767
+    second: World of Solaria Demo 1.0_33
+  - first:
+      213: -1903407314327529894
+    second: World of Solaria Demo 1.0_34
+  - first:
+      213: -7805299607555964799
+    second: World of Solaria Demo 1.0_35
+  - first:
+      213: 557994423272115010
+    second: World of Solaria Demo 1.0_36
+  - first:
+      213: -4783114187769733226
+    second: World of Solaria Demo 1.0_37
+  - first:
+      213: -3360846297237008309
+    second: World of Solaria Demo 1.0_38
+  - first:
+      213: 8577800426246206605
+    second: World of Solaria Demo 1.0_39
+  - first:
+      213: -6746325039256630533
+    second: World of Solaria Demo 1.0_40
+  - first:
+      213: 7301252823223837512
+    second: World of Solaria Demo 1.0_41
+  - first:
+      213: -500637117241843388
+    second: World of Solaria Demo 1.0_42
+  - first:
+      213: 4409988186751511760
+    second: World of Solaria Demo 1.0_43
+  - first:
+      213: -7549309821011741944
+    second: World of Solaria Demo 1.0_44
+  - first:
+      213: 6869613334217970031
+    second: World of Solaria Demo 1.0_45
+  - first:
+      213: 1020490594076818496
+    second: World of Solaria Demo 1.0_46
+  - first:
+      213: 5230344777140536952
+    second: World of Solaria Demo 1.0_47
+  - first:
+      213: -2977676492983590186
+    second: World of Solaria Demo 1.0_48
+  - first:
+      213: -6241416131218054629
+    second: World of Solaria Demo 1.0_49
+  - first:
+      213: 720021525458186053
+    second: World of Solaria Demo 1.0_50
+  - first:
+      213: -6972299787271601692
+    second: World of Solaria Demo 1.0_51
+  - first:
+      213: -2737343256457132510
+    second: World of Solaria Demo 1.0_52
+  - first:
+      213: 2834592593837071593
+    second: World of Solaria Demo 1.0_53
+  - first:
+      213: 8981983864299540822
+    second: World of Solaria Demo 1.0_54
+  - first:
+      213: -1025076785291329249
+    second: World of Solaria Demo 1.0_55
+  - first:
+      213: 1002545475996260061
+    second: World of Solaria Demo 1.0_56
+  - first:
+      213: 5766718600636418919
+    second: World of Solaria Demo 1.0_57
+  - first:
+      213: 8092124816596842395
+    second: World of Solaria Demo 1.0_58
+  - first:
+      213: 8923551981626223243
+    second: World of Solaria Demo 1.0_59
+  - first:
+      213: -4869716879060317530
+    second: World of Solaria Demo 1.0_60
+  - first:
+      213: -6732886317054113857
+    second: World of Solaria Demo 1.0_61
+  - first:
+      213: 5039959274557926114
+    second: World of Solaria Demo 1.0_62
+  - first:
+      213: -7078479166862266385
+    second: World of Solaria Demo 1.0_63
+  - first:
+      213: 8495090681594995537
+    second: World of Solaria Demo 1.0_64
+  - first:
+      213: 1351823178467136721
+    second: World of Solaria Demo 1.0_65
+  - first:
+      213: -731733354770532252
+    second: World of Solaria Demo 1.0_66
+  - first:
+      213: -8711058665056784095
+    second: World of Solaria Demo 1.0_67
+  - first:
+      213: -5848822274555710522
+    second: World of Solaria Demo 1.0_68
+  - first:
+      213: -1259501916981806279
+    second: World of Solaria Demo 1.0_69
+  - first:
+      213: -1786588223472189978
+    second: World of Solaria Demo 1.0_70
+  - first:
+      213: -6587183491561196270
+    second: World of Solaria Demo 1.0_71
+  - first:
+      213: -6617440681571313306
+    second: World of Solaria Demo 1.0_72
+  - first:
+      213: 9016046071991972634
+    second: World of Solaria Demo 1.0_73
+  - first:
+      213: -3185939641749502855
+    second: World of Solaria Demo 1.0_74
+  - first:
+      213: -7440550988295380460
+    second: World of Solaria Demo 1.0_75
+  - first:
+      213: -875482718948631274
+    second: World of Solaria Demo 1.0_76
+  - first:
+      213: -7441655209538734370
+    second: World of Solaria Demo 1.0_77
+  - first:
+      213: 5402025427185596925
+    second: World of Solaria Demo 1.0_78
+  - first:
+      213: -3345280435875799413
+    second: World of Solaria Demo 1.0_79
+  - first:
+      213: 2555170517910434000
+    second: World of Solaria Demo 1.0_80
+  - first:
+      213: 6646664953302707688
+    second: World of Solaria Demo 1.0_81
+  - first:
+      213: 7235710808135795314
+    second: World of Solaria Demo 1.0_82
+  - first:
+      213: 8750579005579193001
+    second: World of Solaria Demo 1.0_83
+  - first:
+      213: -5858834485763354833
+    second: World of Solaria Demo 1.0_84
+  - first:
+      213: 1235569359545361513
+    second: World of Solaria Demo 1.0_85
+  - first:
+      213: -7991004154833143277
+    second: World of Solaria Demo 1.0_86
+  - first:
+      213: -5085795102892809836
+    second: World of Solaria Demo 1.0_87
+  - first:
+      213: -1027143658676965592
+    second: World of Solaria Demo 1.0_88
+  - first:
+      213: 1732962135441594257
+    second: World of Solaria Demo 1.0_89
+  - first:
+      213: -6963184162908886850
+    second: World of Solaria Demo 1.0_90
+  - first:
+      213: 7748358417023052443
+    second: World of Solaria Demo 1.0_91
+  - first:
+      213: -6064248966718066960
+    second: World of Solaria Demo 1.0_92
+  - first:
+      213: -7503001546646455230
+    second: World of Solaria Demo 1.0_93
+  - first:
+      213: -2181640158190981018
+    second: World of Solaria Demo 1.0_94
+  - first:
+      213: -5708882322801002238
+    second: World of Solaria Demo 1.0_95
+  - first:
+      213: -4602857910254058222
+    second: World of Solaria Demo 1.0_96
+  - first:
+      213: -1649818459713313463
+    second: World of Solaria Demo 1.0_97
+  - first:
+      213: 1912623465808910345
+    second: World of Solaria Demo 1.0_98
+  - first:
+      213: -7494878352816176875
+    second: World of Solaria Demo 1.0_99
+  - first:
+      213: -6776163191033853700
+    second: World of Solaria Demo 1.0_100
+  - first:
+      213: 7411007232787635766
+    second: World of Solaria Demo 1.0_101
+  - first:
+      213: 6193818815570815882
+    second: World of Solaria Demo 1.0_102
+  - first:
+      213: 1338377618102774277
+    second: World of Solaria Demo 1.0_103
+  - first:
+      213: -3204506224504053737
+    second: World of Solaria Demo 1.0_104
+  - first:
+      213: -3635427725036164615
+    second: World of Solaria Demo 1.0_105
+  - first:
+      213: -6126002894547974833
+    second: World of Solaria Demo 1.0_106
+  - first:
+      213: -8939480683996204806
+    second: World of Solaria Demo 1.0_107
+  - first:
+      213: 767940819116996219
+    second: World of Solaria Demo 1.0_108
+  - first:
+      213: -2484594489176204631
+    second: World of Solaria Demo 1.0_109
+  - first:
+      213: 4852810329564801148
+    second: World of Solaria Demo 1.0_110
+  - first:
+      213: -2752535396349773037
+    second: World of Solaria Demo 1.0_111
+  - first:
+      213: 6597228576903041298
+    second: World of Solaria Demo 1.0_112
+  - first:
+      213: -1296267029560260719
+    second: World of Solaria Demo 1.0_113
+  - first:
+      213: 7915907640122650027
+    second: World of Solaria Demo 1.0_114
+  - first:
+      213: -5143338067886585079
+    second: World of Solaria Demo 1.0_115
+  - first:
+      213: -8408854537465435818
+    second: World of Solaria Demo 1.0_116
+  - first:
+      213: -9143385858556575666
+    second: World of Solaria Demo 1.0_117
+  - first:
+      213: -1963206195378151602
+    second: World of Solaria Demo 1.0_118
+  - first:
+      213: 5096293441352716980
+    second: World of Solaria Demo 1.0_119
+  - first:
+      213: 4274880176751827941
+    second: World of Solaria Demo 1.0_120
+  - first:
+      213: 6317271447906447982
+    second: World of Solaria Demo 1.0_121
+  - first:
+      213: -5595960934842732610
+    second: World of Solaria Demo 1.0_122
+  - first:
+      213: 996261810452771701
+    second: World of Solaria Demo 1.0_123
+  - first:
+      213: -966471913718793312
+    second: World of Solaria Demo 1.0_124
+  - first:
+      213: 8382927656119472006
+    second: World of Solaria Demo 1.0_125
+  - first:
+      213: 2957440088190051131
+    second: World of Solaria Demo 1.0_126
+  - first:
+      213: 5258840663111387923
+    second: World of Solaria Demo 1.0_127
+  - first:
+      213: 3906991961823771581
+    second: World of Solaria Demo 1.0_128
+  - first:
+      213: -275899262010901844
+    second: World of Solaria Demo 1.0_129
+  - first:
+      213: 7336509878753742177
+    second: World of Solaria Demo 1.0_130
+  - first:
+      213: 7782415405664948013
+    second: World of Solaria Demo 1.0_131
+  - first:
+      213: 8578190788487386823
+    second: World of Solaria Demo 1.0_132
+  - first:
+      213: -2475272163733130008
+    second: World of Solaria Demo 1.0_133
+  - first:
+      213: 5645324399615530752
+    second: World of Solaria Demo 1.0_134
+  - first:
+      213: 2791978732088361167
+    second: World of Solaria Demo 1.0_135
+  - first:
+      213: 4720196776974999475
+    second: World of Solaria Demo 1.0_136
+  - first:
+      213: -5078274561410689412
+    second: World of Solaria Demo 1.0_137
+  - first:
+      213: 9104685416552578709
+    second: World of Solaria Demo 1.0_138
+  - first:
+      213: 850222422318464820
+    second: World of Solaria Demo 1.0_139
+  - first:
+      213: -553952033491030123
+    second: World of Solaria Demo 1.0_140
+  - first:
+      213: 8554044602656308212
+    second: World of Solaria Demo 1.0_141
+  - first:
+      213: 1342499400820478632
+    second: World of Solaria Demo 1.0_142
+  - first:
+      213: -5305227940428943526
+    second: World of Solaria Demo 1.0_143
+  - first:
+      213: 2890550544886528046
+    second: World of Solaria Demo 1.0_144
+  - first:
+      213: 4968563775150980190
+    second: World of Solaria Demo 1.0_145
+  - first:
+      213: -6161732732430099251
+    second: World of Solaria Demo 1.0_146
+  - first:
+      213: 5482237039519169109
+    second: World of Solaria Demo 1.0_147
+  - first:
+      213: 6200062658253675071
+    second: World of Solaria Demo 1.0_148
+  - first:
+      213: -257226161668693653
+    second: World of Solaria Demo 1.0_149
+  - first:
+      213: 3019309839378212050
+    second: World of Solaria Demo 1.0_150
+  - first:
+      213: 6468229186631705830
+    second: World of Solaria Demo 1.0_151
+  - first:
+      213: -8259196388486799701
+    second: World of Solaria Demo 1.0_152
+  - first:
+      213: 7740482645394413282
+    second: World of Solaria Demo 1.0_153
+  - first:
+      213: -4654218485742334577
+    second: World of Solaria Demo 1.0_154
+  - first:
+      213: 2323212237536978391
+    second: World of Solaria Demo 1.0_155
+  - first:
+      213: -8543422852402988431
+    second: World of Solaria Demo 1.0_156
+  - first:
+      213: -6474422209320960148
+    second: World of Solaria Demo 1.0_157
+  - first:
+      213: 3277716417938376465
+    second: World of Solaria Demo 1.0_158
+  - first:
+      213: -282048873171051894
+    second: World of Solaria Demo 1.0_159
+  - first:
+      213: 7508429765853035613
+    second: World of Solaria Demo 1.0_160
+  - first:
+      213: -3695290281119880492
+    second: World of Solaria Demo 1.0_161
+  - first:
+      213: -6781768257482362193
+    second: World of Solaria Demo 1.0_162
+  - first:
+      213: -3576021488814572928
+    second: World of Solaria Demo 1.0_163
+  - first:
+      213: -39580986688394004
+    second: World of Solaria Demo 1.0_164
+  - first:
+      213: 3842601064648465408
+    second: World of Solaria Demo 1.0_165
+  - first:
+      213: -5626459535753594474
+    second: World of Solaria Demo 1.0_166
+  - first:
+      213: 5403467999821623612
+    second: World of Solaria Demo 1.0_167
+  - first:
+      213: -2575043814361314204
+    second: World of Solaria Demo 1.0_168
+  - first:
+      213: 362620554402660726
+    second: World of Solaria Demo 1.0_169
+  - first:
+      213: -6208827329880714768
+    second: World of Solaria Demo 1.0_170
+  - first:
+      213: -628176927738594735
+    second: World of Solaria Demo 1.0_171
+  - first:
+      213: 6712680345409383478
+    second: World of Solaria Demo 1.0_172
+  - first:
+      213: 8359240321725650454
+    second: World of Solaria Demo 1.0_173
+  - first:
+      213: -4413681865667956834
+    second: World of Solaria Demo 1.0_174
+  - first:
+      213: -1116050880728938912
+    second: World of Solaria Demo 1.0_175
+  - first:
+      213: -4556891408337592739
+    second: World of Solaria Demo 1.0_176
+  - first:
+      213: 6140455601969920279
+    second: World of Solaria Demo 1.0_177
+  - first:
+      213: 2260712426210427155
+    second: World of Solaria Demo 1.0_178
+  - first:
+      213: -7671151532384549076
+    second: World of Solaria Demo 1.0_179
+  - first:
+      213: 5306392973311025107
+    second: World of Solaria Demo 1.0_180
+  - first:
+      213: -131809370297216024
+    second: World of Solaria Demo 1.0_181
+  - first:
+      213: 1237315451789353057
+    second: World of Solaria Demo 1.0_182
+  - first:
+      213: -5962851891969466248
+    second: World of Solaria Demo 1.0_183
+  - first:
+      213: -8499687374185972691
+    second: World of Solaria Demo 1.0_184
+  - first:
+      213: 770947320772318565
+    second: World of Solaria Demo 1.0_185
+  - first:
+      213: 6551376723005623997
+    second: World of Solaria Demo 1.0_186
+  - first:
+      213: -1598989954049070443
+    second: World of Solaria Demo 1.0_187
+  - first:
+      213: 486072228483095077
+    second: World of Solaria Demo 1.0_188
+  - first:
+      213: 950143631653101883
+    second: World of Solaria Demo 1.0_189
+  - first:
+      213: 7675601331022352796
+    second: World of Solaria Demo 1.0_190
+  - first:
+      213: -6979693522183280285
+    second: World of Solaria Demo 1.0_191
+  - first:
+      213: 2850600887293836126
+    second: World of Solaria Demo 1.0_192
+  - first:
+      213: 4063857748330678410
+    second: World of Solaria Demo 1.0_193
+  - first:
+      213: -1000287032493693548
+    second: World of Solaria Demo 1.0_194
+  - first:
+      213: 6114758961423204227
+    second: World of Solaria Demo 1.0_195
+  - first:
+      213: -3161914353891582812
+    second: World of Solaria Demo 1.0_196
+  - first:
+      213: -7053073862033459411
+    second: World of Solaria Demo 1.0_197
+  - first:
+      213: -3159235391772382299
+    second: World of Solaria Demo 1.0_198
+  - first:
+      213: 2730314830866532514
+    second: World of Solaria Demo 1.0_199
+  - first:
+      213: -6492558641569668017
+    second: World of Solaria Demo 1.0_200
+  - first:
+      213: -5565054346063705345
+    second: World of Solaria Demo 1.0_201
+  - first:
+      213: 7301387974787495298
+    second: World of Solaria Demo 1.0_202
+  - first:
+      213: -8823550811128125916
+    second: World of Solaria Demo 1.0_203
+  - first:
+      213: 8917179695152660788
+    second: World of Solaria Demo 1.0_204
+  - first:
+      213: -3288144167130662224
+    second: World of Solaria Demo 1.0_205
+  - first:
+      213: -2487698309901897937
+    second: World of Solaria Demo 1.0_206
+  - first:
+      213: 8157314362402862967
+    second: World of Solaria Demo 1.0_207
+  - first:
+      213: -1055001569669950482
+    second: World of Solaria Demo 1.0_208
+  - first:
+      213: -1839258655265064941
+    second: World of Solaria Demo 1.0_209
+  - first:
+      213: -1146056703272516634
+    second: World of Solaria Demo 1.0_210
+  - first:
+      213: 1033714320354636050
+    second: World of Solaria Demo 1.0_211
+  - first:
+      213: -7203985916232834843
+    second: World of Solaria Demo 1.0_212
+  - first:
+      213: -7000234295841325691
+    second: World of Solaria Demo 1.0_213
+  - first:
+      213: -3995905485157433481
+    second: World of Solaria Demo 1.0_214
+  - first:
+      213: 2580148877655591313
+    second: World of Solaria Demo 1.0_215
+  - first:
+      213: 4277154877878571092
+    second: World of Solaria Demo 1.0_216
+  - first:
+      213: -7055336681389469621
+    second: World of Solaria Demo 1.0_217
+  - first:
+      213: 3998272268756194265
+    second: World of Solaria Demo 1.0_218
+  - first:
+      213: 9002186851182985213
+    second: World of Solaria Demo 1.0_219
+  - first:
+      213: -9122137463775306122
+    second: World of Solaria Demo 1.0_220
+  - first:
+      213: 8967750354340478832
+    second: World of Solaria Demo 1.0_221
+  - first:
+      213: 355503598126169739
+    second: World of Solaria Demo 1.0_222
+  - first:
+      213: -4405483200164911945
+    second: World of Solaria Demo 1.0_223
+  - first:
+      213: 745793876386475644
+    second: World of Solaria Demo 1.0_224
+  - first:
+      213: 7337138570688927847
+    second: World of Solaria Demo 1.0_225
+  - first:
+      213: -6236558555335146926
+    second: World of Solaria Demo 1.0_226
+  - first:
+      213: 884484523835379279
+    second: World of Solaria Demo 1.0_227
+  - first:
+      213: -8494024226755470303
+    second: World of Solaria Demo 1.0_228
+  - first:
+      213: -7708806140987009149
+    second: World of Solaria Demo 1.0_229
+  - first:
+      213: 9071967008463224567
+    second: World of Solaria Demo 1.0_230
+  - first:
+      213: -3812858323763265211
+    second: World of Solaria Demo 1.0_231
+  - first:
+      213: -616225892416806105
+    second: World of Solaria Demo 1.0_232
+  - first:
+      213: -4261249413286044726
+    second: World of Solaria Demo 1.0_233
+  - first:
+      213: -8799921200400018776
+    second: World of Solaria Demo 1.0_234
+  - first:
+      213: 3515122876003734070
+    second: World of Solaria Demo 1.0_235
+  - first:
+      213: 3366430370686796376
+    second: World of Solaria Demo 1.0_236
+  - first:
+      213: 9143488077629105976
+    second: World of Solaria Demo 1.0_237
+  - first:
+      213: 8023290606489850781
+    second: World of Solaria Demo 1.0_238
+  - first:
+      213: 3292097136188708385
+    second: World of Solaria Demo 1.0_239
+  - first:
+      213: 61730891007378549
+    second: World of Solaria Demo 1.0_240
+  - first:
+      213: 8568665847635688407
+    second: World of Solaria Demo 1.0_241
+  - first:
+      213: -2103907513618394661
+    second: World of Solaria Demo 1.0_242
+  - first:
+      213: 4005928039626912660
+    second: World of Solaria Demo 1.0_243
+  - first:
+      213: -5133851613262541643
+    second: World of Solaria Demo 1.0_244
+  - first:
+      213: -960724327387896400
+    second: World of Solaria Demo 1.0_245
+  - first:
+      213: -2512123576818209149
+    second: World of Solaria Demo 1.0_246
+  - first:
+      213: 5094136827332178033
+    second: World of Solaria Demo 1.0_247
+  - first:
+      213: -7648913916638866599
+    second: World of Solaria Demo 1.0_248
+  - first:
+      213: 6757648828373617896
+    second: World of Solaria Demo 1.0_249
+  - first:
+      213: -5469739633994114955
+    second: World of Solaria Demo 1.0_250
+  - first:
+      213: -4483136486501077677
+    second: World of Solaria Demo 1.0_251
+  - first:
+      213: 9069512184942542078
+    second: World of Solaria Demo 1.0_252
+  - first:
+      213: 4793722166008953300
+    second: World of Solaria Demo 1.0_253
+  - first:
+      213: 6870520766142758211
+    second: World of Solaria Demo 1.0_254
+  - first:
+      213: 5755952008770398296
+    second: World of Solaria Demo 1.0_255
+  - first:
+      213: -7327030489618466490
+    second: World of Solaria Demo 1.0_256
+  - first:
+      213: -1812580441961358215
+    second: World of Solaria Demo 1.0_257
+  - first:
+      213: 3514865754521412106
+    second: World of Solaria Demo 1.0_258
+  - first:
+      213: -7748434106413574991
+    second: World of Solaria Demo 1.0_259
+  - first:
+      213: 4690915165862008946
+    second: World of Solaria Demo 1.0_260
+  - first:
+      213: 6719310035632388549
+    second: World of Solaria Demo 1.0_261
+  - first:
+      213: 1172092090894723089
+    second: World of Solaria Demo 1.0_262
+  - first:
+      213: -7786159143003104498
+    second: World of Solaria Demo 1.0_263
+  - first:
+      213: -7979293184770127656
+    second: World of Solaria Demo 1.0_264
+  - first:
+      213: 3289961317925786575
+    second: World of Solaria Demo 1.0_265
+  - first:
+      213: -758371224833726568
+    second: World of Solaria Demo 1.0_266
+  - first:
+      213: 7293956631379669992
+    second: World of Solaria Demo 1.0_267
+  - first:
+      213: -7902581642941891758
+    second: World of Solaria Demo 1.0_268
+  - first:
+      213: -5374560886865310152
+    second: World of Solaria Demo 1.0_269
+  - first:
+      213: -1743766810529482568
+    second: World of Solaria Demo 1.0_270
+  - first:
+      213: 4881250366191508968
+    second: World of Solaria Demo 1.0_271
+  - first:
+      213: -1639023117442717857
+    second: World of Solaria Demo 1.0_272
+  - first:
+      213: -978852837281478884
+    second: World of Solaria Demo 1.0_273
+  - first:
+      213: -3554881259502520837
+    second: World of Solaria Demo 1.0_274
+  - first:
+      213: -8605409681321264031
+    second: World of Solaria Demo 1.0_275
+  - first:
+      213: 1883313232875478415
+    second: World of Solaria Demo 1.0_276
+  - first:
+      213: -7544988212221349612
+    second: World of Solaria Demo 1.0_277
+  - first:
+      213: 7096038748032023259
+    second: World of Solaria Demo 1.0_278
+  - first:
+      213: 6333020941689841636
+    second: World of Solaria Demo 1.0_279
+  - first:
+      213: 6745149265698555068
+    second: World of Solaria Demo 1.0_280
+  - first:
+      213: -5573727750174305463
+    second: World of Solaria Demo 1.0_281
+  - first:
+      213: -3332235758313709068
+    second: World of Solaria Demo 1.0_282
+  - first:
+      213: 61611790542140833
+    second: World of Solaria Demo 1.0_283
+  - first:
+      213: 9167500337741181064
+    second: World of Solaria Demo 1.0_284
+  - first:
+      213: 3622584130919442038
+    second: World of Solaria Demo 1.0_285
+  - first:
+      213: 4200226761713520859
+    second: World of Solaria Demo 1.0_286
+  - first:
+      213: -6748684892158701724
+    second: World of Solaria Demo 1.0_287
+  - first:
+      213: 3131190054896968009
+    second: World of Solaria Demo 1.0_288
+  - first:
+      213: 4796769825398919462
+    second: World of Solaria Demo 1.0_289
+  - first:
+      213: -1425061951467204354
+    second: World of Solaria Demo 1.0_290
+  - first:
+      213: 5292007062837067784
+    second: World of Solaria Demo 1.0_291
+  - first:
+      213: -1325278138743919792
+    second: World of Solaria Demo 1.0_292
+  - first:
+      213: -4088754070474424044
+    second: World of Solaria Demo 1.0_293
+  - first:
+      213: -2650328510409008262
+    second: World of Solaria Demo 1.0_294
+  - first:
+      213: -2908103079977188218
+    second: World of Solaria Demo 1.0_295
+  - first:
+      213: 945583469263083669
+    second: World of Solaria Demo 1.0_296
+  - first:
+      213: -7100366474736871764
+    second: World of Solaria Demo 1.0_297
+  - first:
+      213: 8204622950455807492
+    second: World of Solaria Demo 1.0_298
+  - first:
+      213: -9036804448234548981
+    second: World of Solaria Demo 1.0_299
+  - first:
+      213: -7645166611018240976
+    second: World of Solaria Demo 1.0_300
+  - first:
+      213: -2373179396845098673
+    second: World of Solaria Demo 1.0_301
+  - first:
+      213: -6825995720427744708
+    second: World of Solaria Demo 1.0_302
+  - first:
+      213: -4102184249484150381
+    second: World of Solaria Demo 1.0_303
+  - first:
+      213: 8665683513726112182
+    second: World of Solaria Demo 1.0_304
+  - first:
+      213: 8633720622925124451
+    second: World of Solaria Demo 1.0_305
+  - first:
+      213: 7880669229228541084
+    second: World of Solaria Demo 1.0_306
+  - first:
+      213: -7872931013307204684
+    second: World of Solaria Demo 1.0_307
+  - first:
+      213: -1749664426006118661
+    second: World of Solaria Demo 1.0_308
+  - first:
+      213: 1699161877556821576
+    second: World of Solaria Demo 1.0_309
+  - first:
+      213: 8944299459602886659
+    second: World of Solaria Demo 1.0_310
+  - first:
+      213: 3562115121122202028
+    second: World of Solaria Demo 1.0_311
+  - first:
+      213: -2784253098030830274
+    second: World of Solaria Demo 1.0_312
+  - first:
+      213: 4774033831010057147
+    second: World of Solaria Demo 1.0_313
+  - first:
+      213: -9108138272082598192
+    second: World of Solaria Demo 1.0_314
+  - first:
+      213: -1608579117603352048
+    second: World of Solaria Demo 1.0_315
+  - first:
+      213: -5049416301022972838
+    second: World of Solaria Demo 1.0_316
+  - first:
+      213: -4362233798784549964
+    second: World of Solaria Demo 1.0_317
+  - first:
+      213: -2201281319582590013
+    second: World of Solaria Demo 1.0_318
+  - first:
+      213: 7567549449264425261
+    second: World of Solaria Demo 1.0_319
+  - first:
+      213: 5203052272281375290
+    second: World of Solaria Demo 1.0_320
+  - first:
+      213: -8956028189558607350
+    second: World of Solaria Demo 1.0_321
+  - first:
+      213: 4011004074534383271
+    second: World of Solaria Demo 1.0_322
+  - first:
+      213: -3953268428811120683
+    second: World of Solaria Demo 1.0_323
+  - first:
+      213: 4243728983006255283
+    second: World of Solaria Demo 1.0_324
+  - first:
+      213: -8689766145327563758
+    second: World of Solaria Demo 1.0_325
+  - first:
+      213: -2965346338953093613
+    second: World of Solaria Demo 1.0_326
+  - first:
+      213: 1961704334766428950
+    second: World of Solaria Demo 1.0_327
+  - first:
+      213: -1022798269656812367
+    second: World of Solaria Demo 1.0_328
+  - first:
+      213: 8327356282291726251
+    second: World of Solaria Demo 1.0_329
+  - first:
+      213: -4037114009528479657
+    second: World of Solaria Demo 1.0_330
+  - first:
+      213: 6691715740056703656
+    second: World of Solaria Demo 1.0_331
+  - first:
+      213: 6315599678542927093
+    second: World of Solaria Demo 1.0_332
+  - first:
+      213: -3714177578941965374
+    second: World of Solaria Demo 1.0_333
+  - first:
+      213: 8035574420184260296
+    second: World of Solaria Demo 1.0_334
+  - first:
+      213: -9126393947854283066
+    second: World of Solaria Demo 1.0_335
+  - first:
+      213: -3647799489359192158
+    second: World of Solaria Demo 1.0_336
+  - first:
+      213: -4329258215748048453
+    second: World of Solaria Demo 1.0_337
+  - first:
+      213: 281899486623426812
+    second: World of Solaria Demo 1.0_338
+  - first:
+      213: 6270349438123674493
+    second: World of Solaria Demo 1.0_339
+  - first:
+      213: -1034171822324573825
+    second: World of Solaria Demo 1.0_340
+  - first:
+      213: -2323058954760296209
+    second: World of Solaria Demo 1.0_341
+  - first:
+      213: 644872067124341603
+    second: World of Solaria Demo 1.0_342
+  - first:
+      213: 5491191505307194421
+    second: World of Solaria Demo 1.0_343
+  - first:
+      213: -1363611789951791627
+    second: World of Solaria Demo 1.0_344
+  - first:
+      213: -8819726010393688984
+    second: World of Solaria Demo 1.0_345
+  - first:
+      213: 7328708392868620039
+    second: World of Solaria Demo 1.0_346
+  - first:
+      213: -8595044597585409954
+    second: World of Solaria Demo 1.0_347
+  - first:
+      213: 2839556306585148083
+    second: World of Solaria Demo 1.0_348
+  - first:
+      213: -2516445233054463800
+    second: World of Solaria Demo 1.0_349
+  - first:
+      213: -3973410032645735645
+    second: World of Solaria Demo 1.0_350
+  - first:
+      213: 475166423332979829
+    second: World of Solaria Demo 1.0_351
+  - first:
+      213: -6662674139407827042
+    second: World of Solaria Demo 1.0_352
+  - first:
+      213: 7238728779620867337
+    second: World of Solaria Demo 1.0_353
+  - first:
+      213: 600255824479136702
+    second: World of Solaria Demo 1.0_354
+  - first:
+      213: 1505959899891117428
+    second: World of Solaria Demo 1.0_355
+  - first:
+      213: 7249632603065184456
+    second: World of Solaria Demo 1.0_356
+  - first:
+      213: -4267444602218576643
+    second: World of Solaria Demo 1.0_357
+  - first:
+      213: 6692565043145982728
+    second: World of Solaria Demo 1.0_358
+  - first:
+      213: 3328579068515158024
+    second: World of Solaria Demo 1.0_359
+  - first:
+      213: -7968388492948850788
+    second: World of Solaria Demo 1.0_360
+  - first:
+      213: -1898885498257081910
+    second: World of Solaria Demo 1.0_361
+  - first:
+      213: 2045403127055611128
+    second: World of Solaria Demo 1.0_362
+  - first:
+      213: -8902401431762284229
+    second: World of Solaria Demo 1.0_363
+  - first:
+      213: 1622429430162476752
+    second: World of Solaria Demo 1.0_364
+  - first:
+      213: 5690347184048258616
+    second: World of Solaria Demo 1.0_365
+  - first:
+      213: 90307730050108477
+    second: World of Solaria Demo 1.0_366
+  - first:
+      213: -6323390969733867238
+    second: World of Solaria Demo 1.0_367
+  - first:
+      213: 2532243794092087100
+    second: World of Solaria Demo 1.0_368
+  - first:
+      213: -8054447811746180282
+    second: World of Solaria Demo 1.0_369
+  - first:
+      213: -4603217452281194992
+    second: World of Solaria Demo 1.0_370
+  - first:
+      213: -3482345445086606614
+    second: World of Solaria Demo 1.0_371
+  - first:
+      213: -4057531385760004362
+    second: World of Solaria Demo 1.0_372
+  - first:
+      213: -2829488741294772082
+    second: World of Solaria Demo 1.0_373
+  - first:
+      213: 279996780311134189
+    second: World of Solaria Demo 1.0_374
+  - first:
+      213: 8913778895816286390
+    second: World of Solaria Demo 1.0_375
+  - first:
+      213: 2405547067705905303
+    second: World of Solaria Demo 1.0_376
+  - first:
+      213: 5935011491934303547
+    second: World of Solaria Demo 1.0_377
+  - first:
+      213: -8631270614932787673
+    second: World of Solaria Demo 1.0_378
+  - first:
+      213: 9210218430707114285
+    second: World of Solaria Demo 1.0_379
+  - first:
+      213: -471526409483244588
+    second: World of Solaria Demo 1.0_380
+  - first:
+      213: -7895509898623673120
+    second: World of Solaria Demo 1.0_381
+  - first:
+      213: 3966597009883378100
+    second: World of Solaria Demo 1.0_382
+  - first:
+      213: 8338398831634215968
+    second: World of Solaria Demo 1.0_383
+  - first:
+      213: 2625832153651293792
+    second: World of Solaria Demo 1.0_384
+  - first:
+      213: 5095777729766370617
+    second: World of Solaria Demo 1.0_385
+  - first:
+      213: 6149889321868737803
+    second: World of Solaria Demo 1.0_386
+  - first:
+      213: 2613190944762495676
+    second: World of Solaria Demo 1.0_387
+  - first:
+      213: -226950070820832413
+    second: World of Solaria Demo 1.0_388
+  - first:
+      213: -597091834455237897
+    second: World of Solaria Demo 1.0_389
+  - first:
+      213: -6932342364759946770
+    second: World of Solaria Demo 1.0_390
+  - first:
+      213: -4785943283650127116
+    second: World of Solaria Demo 1.0_391
+  - first:
+      213: -950386191488386473
+    second: World of Solaria Demo 1.0_392
+  - first:
+      213: -1250620113306692905
+    second: World of Solaria Demo 1.0_393
+  - first:
+      213: -3620392349156846713
+    second: World of Solaria Demo 1.0_394
+  - first:
+      213: -6566431001381205627
+    second: World of Solaria Demo 1.0_395
+  - first:
+      213: -1900228520132211088
+    second: World of Solaria Demo 1.0_396
+  - first:
+      213: -2105445966081410595
+    second: World of Solaria Demo 1.0_397
+  - first:
+      213: -997104383599292792
+    second: World of Solaria Demo 1.0_398
+  - first:
+      213: -7011947094637516524
+    second: World of Solaria Demo 1.0_399
+  - first:
+      213: -3855685234595513392
+    second: World of Solaria Demo 1.0_400
+  - first:
+      213: 1671819997518959190
+    second: World of Solaria Demo 1.0_401
+  - first:
+      213: -7295356340459077907
+    second: World of Solaria Demo 1.0_402
+  - first:
+      213: -4675241920805968761
+    second: World of Solaria Demo 1.0_403
+  - first:
+      213: -618495478300544423
+    second: World of Solaria Demo 1.0_404
+  - first:
+      213: 1073427423390411875
+    second: World of Solaria Demo 1.0_405
+  - first:
+      213: -8748509588746280713
+    second: World of Solaria Demo 1.0_406
+  - first:
+      213: -1626278242312728369
+    second: World of Solaria Demo 1.0_407
+  - first:
+      213: 2167850939944715452
+    second: World of Solaria Demo 1.0_408
+  - first:
+      213: -9090006030700623739
+    second: World of Solaria Demo 1.0_409
+  - first:
+      213: -2109798487873296141
+    second: World of Solaria Demo 1.0_410
+  - first:
+      213: 7636548613445631542
+    second: World of Solaria Demo 1.0_411
+  - first:
+      213: -1512507156401722625
+    second: World of Solaria Demo 1.0_412
+  - first:
+      213: -962368682583683253
+    second: World of Solaria Demo 1.0_413
+  - first:
+      213: 4284573766419964803
+    second: World of Solaria Demo 1.0_414
+  - first:
+      213: 2621828416892116814
+    second: World of Solaria Demo 1.0_415
+  - first:
+      213: -5439965047126693658
+    second: World of Solaria Demo 1.0_416
+  - first:
+      213: -7141025236925833287
+    second: World of Solaria Demo 1.0_417
+  - first:
+      213: -618551111816726174
+    second: World of Solaria Demo 1.0_418
+  - first:
+      213: 7220080261261390091
+    second: World of Solaria Demo 1.0_419
+  - first:
+      213: 6653168360478356487
+    second: World of Solaria Demo 1.0_420
+  - first:
+      213: 6558767181045940345
+    second: World of Solaria Demo 1.0_421
+  - first:
+      213: -1784282814000191753
+    second: World of Solaria Demo 1.0_422
+  - first:
+      213: 609978211514135994
+    second: World of Solaria Demo 1.0_423
+  - first:
+      213: -4463256195025339514
+    second: World of Solaria Demo 1.0_424
+  - first:
+      213: -6335623718230168932
+    second: World of Solaria Demo 1.0_425
+  - first:
+      213: 6697331320321609721
+    second: World of Solaria Demo 1.0_426
+  - first:
+      213: -2097135442000906483
+    second: World of Solaria Demo 1.0_427
+  - first:
+      213: -7027677259112443577
+    second: World of Solaria Demo 1.0_428
+  - first:
+      213: -6244444242737289126
+    second: World of Solaria Demo 1.0_429
+  - first:
+      213: 5273342035110263416
+    second: World of Solaria Demo 1.0_430
+  - first:
+      213: -2098469217498526084
+    second: World of Solaria Demo 1.0_431
+  - first:
+      213: -1274817399936422918
+    second: World of Solaria Demo 1.0_432
+  - first:
+      213: -7900336388044460077
+    second: World of Solaria Demo 1.0_433
+  - first:
+      213: -6408968299151242529
+    second: World of Solaria Demo 1.0_434
+  - first:
+      213: 686671788667314766
+    second: World of Solaria Demo 1.0_435
+  - first:
+      213: -2513013335689520757
+    second: World of Solaria Demo 1.0_436
+  - first:
+      213: -9066089665723769520
+    second: World of Solaria Demo 1.0_437
+  - first:
+      213: 7746291106218514312
+    second: World of Solaria Demo 1.0_438
+  - first:
+      213: -7765458110009838432
+    second: World of Solaria Demo 1.0_439
+  - first:
+      213: 9194363455131402596
+    second: World of Solaria Demo 1.0_440
+  - first:
+      213: -8681822843513348510
+    second: World of Solaria Demo 1.0_441
+  - first:
+      213: -6586266784302597768
+    second: World of Solaria Demo 1.0_442
+  - first:
+      213: 7713284185835252268
+    second: World of Solaria Demo 1.0_443
+  - first:
+      213: 8138679278639062851
+    second: World of Solaria Demo 1.0_444
+  - first:
+      213: -3831027703769779379
+    second: World of Solaria Demo 1.0_445
+  - first:
+      213: -3206293830956058855
+    second: World of Solaria Demo 1.0_446
+  - first:
+      213: -6549109448695062633
+    second: World of Solaria Demo 1.0_447
+  - first:
+      213: 4546541038686711049
+    second: World of Solaria Demo 1.0_448
+  - first:
+      213: 6407487958896667437
+    second: World of Solaria Demo 1.0_449
+  - first:
+      213: 6645780880920576652
+    second: World of Solaria Demo 1.0_450
+  - first:
+      213: -8245922110928573003
+    second: World of Solaria Demo 1.0_451
+  - first:
+      213: -5785253148097394987
+    second: World of Solaria Demo 1.0_452
+  - first:
+      213: 2989293828184009912
+    second: World of Solaria Demo 1.0_453
+  - first:
+      213: 1849028340546722402
+    second: World of Solaria Demo 1.0_454
+  - first:
+      213: -8216886904130921038
+    second: World of Solaria Demo 1.0_455
+  - first:
+      213: 7010865826327551832
+    second: World of Solaria Demo 1.0_456
+  - first:
+      213: -2477776503919587359
+    second: World of Solaria Demo 1.0_457
+  - first:
+      213: -3492934950605261172
+    second: World of Solaria Demo 1.0_458
+  - first:
+      213: -6409254633701829980
+    second: World of Solaria Demo 1.0_459
+  - first:
+      213: -6745090270020993595
+    second: World of Solaria Demo 1.0_460
+  - first:
+      213: 3061893963572929037
+    second: World of Solaria Demo 1.0_461
+  - first:
+      213: -1719834431828160488
+    second: World of Solaria Demo 1.0_462
+  - first:
+      213: -1331902172895818093
+    second: World of Solaria Demo 1.0_463
+  - first:
+      213: -890773132093947144
+    second: World of Solaria Demo 1.0_464
+  - first:
+      213: -8170679695637992520
+    second: World of Solaria Demo 1.0_465
+  - first:
+      213: 7362559517392018609
+    second: World of Solaria Demo 1.0_466
+  - first:
+      213: -252796576869193197
+    second: World of Solaria Demo 1.0_467
+  - first:
+      213: -1238200569352306264
+    second: World of Solaria Demo 1.0_468
+  - first:
+      213: 7664407052075696338
+    second: World of Solaria Demo 1.0_469
+  - first:
+      213: 7050533527321402651
+    second: World of Solaria Demo 1.0_470
+  - first:
+      213: -3938063148024584776
+    second: World of Solaria Demo 1.0_471
+  - first:
+      213: -156794901616729274
+    second: World of Solaria Demo 1.0_472
+  - first:
+      213: -7087871527157802380
+    second: World of Solaria Demo 1.0_473
+  - first:
+      213: 8347629331903726903
+    second: World of Solaria Demo 1.0_474
+  - first:
+      213: -7463157909062068456
+    second: World of Solaria Demo 1.0_475
+  - first:
+      213: -1875625480329376248
+    second: World of Solaria Demo 1.0_476
+  - first:
+      213: -1899746511429746616
+    second: World of Solaria Demo 1.0_477
+  - first:
+      213: 6080336950240124562
+    second: World of Solaria Demo 1.0 1_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World of Solaria Demo 1.0 1_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e9eb1cd32b16450800000000000000
+      internalID: 6080336950240124562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

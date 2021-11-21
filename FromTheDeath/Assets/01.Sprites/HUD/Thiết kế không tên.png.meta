@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 705d3c6886e546e4eb7caee4e9f6dd64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5997753062936674709
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_0"
+  - first:
+      213: -6847972479858580584
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_1"
+  - first:
+      213: 4203195535993544149
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_2"
+  - first:
+      213: -2065320688524014978
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_3"
+  - first:
+      213: -2972617178213159602
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_4"
+  - first:
+      213: 4167728038757774099
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_5"
+  - first:
+      213: 1751168819802229073
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_6"
+  - first:
+      213: -5565003256251094487
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_7"
+  - first:
+      213: 1866681079894861471
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_8"
+  - first:
+      213: -3006494166156371597
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_9"
+  - first:
+      213: 4637560830743580723
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_10"
+  - first:
+      213: 1250276617499950780
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_11"
+  - first:
+      213: 7238946991582319874
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_12"
+  - first:
+      213: -7435598873239945435
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_13"
+  - first:
+      213: -3901518814610986801
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_14"
+  - first:
+      213: -975263497820679119
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_15"
+  - first:
+      213: 8136991861867340764
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_16"
+  - first:
+      213: 5027040829033110218
+    second: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_17"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_0"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 560
+        width: 175
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ef521ed53b3cca0800000000000000
+      internalID: -5997753062936674709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_1"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 555
+        width: 383
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e06acf4d17f0a0800000000000000
+      internalID: -6847972479858580584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_2"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 448
+        width: 175
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd176c0210c45a30800000000000000
+      internalID: 4203195535993544149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_3"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 463
+        width: 360
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ac24db6c18653e0800000000000000
+      internalID: -2065320688524014978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_4"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 339
+        width: 175
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d616f0d642fb6d0800000000000000
+      internalID: -2972617178213159602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_5"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 368
+        width: 360
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313b796d19eb6d930800000000000000
+      internalID: 4167728038757774099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_6"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 241
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1594d0673c66d4810800000000000000
+      internalID: 1751168819802229073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_7"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 262
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae249e50325c2b0800000000000000
+      internalID: -5565003256251094487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_8"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 261
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9663145d88c7e910800000000000000
+      internalID: 1866681079894861471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_9"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 133
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37917f62c79c646d0800000000000000
+      internalID: -3006494166156371597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_10"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 142
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3309cb4310deb5040800000000000000
+      internalID: 4637560830743580723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_11"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 130
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbebf0995ffd95110800000000000000
+      internalID: 1250276617499950780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_12"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 144
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205952d6fe7e57460800000000000000
+      internalID: 7238946991582319874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_13"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 23
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ffc3468327fc890800000000000000
+      internalID: -7435598873239945435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_14"
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 22
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8eb9a2f450bd9c0800000000000000
+      internalID: -3901518814610986801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_15"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 14
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345ef1140b2772f0800000000000000
+      internalID: -975263497820679119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_16"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 13
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e8da9cf66ce070800000000000000
+      internalID: 8136991861867340764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Thi\u1EBFt k\u1EBF kh\xF4ng t\xEAn_17"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 21
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca57e5eff2a3c540800000000000000
+      internalID: 5027040829033110218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
